@@ -1,0 +1,29 @@
+﻿.nav-item{
+    margin-left:250px;
+}
+
+.home{
+    background-image: url('Images/wall.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.carousel-item {
+    width:50%;
+    margin-left:25%;
+}
+
+.mb-4{
+    position:relative;
+    top:100px;
+    margin:auto;
+    width:25%;
+}
+
+.extra{
+    text-align:center;
+}
+
+.card-img-top{
+    height:300px;
+}
